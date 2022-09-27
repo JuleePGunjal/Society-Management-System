@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Housing_Society_Backend"/>
+<aop-project name="Backend-1"/>
+<aop-project name="Backend-2"/>
+</aop-reference-model>

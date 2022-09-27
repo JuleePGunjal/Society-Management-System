@@ -1,0 +1,65 @@
+a {
+    background-color: #0095ff; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 120%;
+    margin-bottom: 20px;
+}
+
+a:hover{
+    background-color: #005795;
+    color: white;
+}
+
+h1{
+font-size: 400%;
+}
+
+div,body{
+    background-color: rgb(208, 223, 236);
+   
+}
+
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid rgb(139, 182, 238);
+    padding: 8px;
+    text-align: center;
+  }
+  
+  #customers tr:nth-child(even){background-color: #bcd5f1;}
+    
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #f7b603;
+    color: white;
+    vertical-align: middle;
+    font-size: 120%;
+  }
+
+  .App {
+    text-align: center;
+    background-image: url("./pages/images/best.jpg"); 
+    background-size:cover;
+    height: 1500px
+  }
+
+  #home {
+      position: static;
+  }
